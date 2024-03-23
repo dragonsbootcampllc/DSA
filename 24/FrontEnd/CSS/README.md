@@ -13,7 +13,7 @@
 ### 1. 📦 CSS Box Model
 - The CSS box model is a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content.
 
-![CSS Box Model](https://www.w3schools.com/css/box-model.png)
+![CSS Box Model](https://aheadworks.com/blog/css-margin-vs-padding-whats-the-difference-and-how-to-use#:~:text=Padding%20is%20the%20space%20between,outer%20space%20around%20the%20box.)
 
 ---
 
@@ -57,8 +57,9 @@
 - Flexbox is a one-dimensional layout method for laying out items in rows or columns. Items flex to fill additional space and shrink to fit into smaller spaces.
 - Grid is a two-dimensional layout method for laying out items in rows and columns. You can use it to create complex layouts that are not possible with Flexbox.
 
----
-# is flex or grid  good for responsive design?
+
+
+# is flex or grid good for responsive design?
 It is ideal for creating responsive layouts where items need to flex and adapt to different screen sizes.
 but Grid is more suitable for creating complex layouts with rows and columns and It is ideal for creating grid-based designs where items need to be placed in specific locations.
 
@@ -71,4 +72,5 @@ but Grid is more suitable for creating complex layouts with rows and columns and
 - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 - [CSS Grid](https://www.w3schools.com/css/css_grid.asp)
 - [Flexbox vs Grid](https://www.youtube.com/watch?v=hs3piaN4b5I)
+- [CSS Position](https://blog.hubspot.com/website/css-position)
 
